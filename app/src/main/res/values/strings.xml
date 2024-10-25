@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Hitung Volume Tabung</string>
+    <string name="jarijari">Masukkan Jari-Jari</string>
+    <string name="tinggi">Masukkan Tinggi</string>
+    <string name="calc_tabung">Hitung Volume dan Luas Permukaan</string>
+    <string name="result_volume">Volume Tabung: </string>
+    <string name="result_surface_area">Luas Permukaan Tabung: </string>
+    <string name="input_error">Masukkan jari-jari dan tinggi</string>
+</resources>
